@@ -89,11 +89,11 @@ This delay happens because the service goes to sleep after inactivity.
 
 Please wait for a minute if the app seems unresponsive initially.
 
-##Application link
+## Application link
 
  medi-buddyy.netlify.app
 
-##Project screenshots
+## Project screenshots
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/87974d57-b05d-46eb-b677-ca1030425dc3" />
 
